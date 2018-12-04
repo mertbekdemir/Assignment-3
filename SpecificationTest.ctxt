@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SpecificationTest
+comment1.params=clazz\ fieldName\ expectedType\ expectedModifiers\ forbiddenModifiers
+comment1.target=void\ testField(java.lang.Class,\ java.lang.String,\ java.lang.Class,\ java.lang.String[],\ java.lang.String[])
+comment2.params=clazz\ methodName\ expectedReturnType\ expectedModifiers\ forbiddenModifiers\ expectedParameters
+comment2.target=void\ testMethod(java.lang.Class,\ java.lang.String,\ java.lang.Class,\ java.lang.String[],\ java.lang.String[],\ java.lang.Class[])
+comment3.params=clazz\ expected
+comment3.target=void\ testNumberOfConstructors(java.lang.Class,\ int)
+comment4.params=clazz\ expectedModifiers\ expectedParameters
+comment4.target=void\ testConstructor(java.lang.Class,\ java.lang.String[],\ java.lang.Class[])
+comment5.params=clazz\ name\ expectedModifiers\ actualModifiers
+comment5.target=void\ checkRequiredModifiers(java.lang.Class,\ java.lang.String,\ java.lang.String[],\ int)
+comment6.params=clazz\ name\ unexpectedModifiers\ actualModifiers
+comment6.target=void\ checkForbiddenModifiers(java.lang.Class,\ java.lang.String,\ java.lang.String[],\ int)
+numComments=7
